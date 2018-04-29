@@ -11,7 +11,7 @@ Continue/return to menu: press any key
 ### Build
 
 ```
-mkdir build && cd build
+mkdir build & cd build
 cmake ..
 make
 ```
