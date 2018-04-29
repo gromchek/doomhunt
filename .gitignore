@@ -1,0 +1,6 @@
+build/*
+!build/base/
+*.pro.user*
+*.autosave
+*.txt
+!CMakeLists.txt
